@@ -1,6 +1,6 @@
 # Projeto Base
 
-Criar um projeto base com a finalidade de ser utilizado em projetos futuros. 
+Criar um projeto para servir de base. 
 
 ## Requisitos Funcionais
 * Deve possuir um showcase para exemplificar a utilização.
